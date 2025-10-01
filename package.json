@@ -1,0 +1,14 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "A CLI tool to generate secure passwords.",
+  "main": "server.js",
+  "bin": {
+    "password-generator": "server.js"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
